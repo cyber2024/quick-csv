@@ -1,0 +1,27 @@
+{
+  "name": "rusself-quick-csv",
+  "version": "1.0.0",
+  "description": "parse csv files",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyber2024/quick-csv.git"
+  },
+  "keywords": [
+    "csv",
+    "parse"
+  ],
+  "author": "russell elfenbein russ@rusself.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyber2024/quick-csv/issues"
+  },
+  "homepage": "https://github.com/cyber2024/quick-csv#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
